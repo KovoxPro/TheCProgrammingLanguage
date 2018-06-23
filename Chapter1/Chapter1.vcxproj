@@ -115,7 +115,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArgumentsCallByValue.c" />
     <ClCompile Include="Arrays.c" />
+    <ClCompile Include="CharacterArrays.c" />
     <ClCompile Include="CharacterInputAndOutput.c" />
     <ClCompile Include="ForStatement.c" />
     <ClCompile Include="Functions.c" />
