@@ -13,37 +13,46 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Chapter1">
+      <UniqueIdentifier>{3522bf5a-4f6c-48f9-8675-0932bd431596}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chapter2">
+      <UniqueIdentifier>{456e2203-4300-4a37-9c6c-6c0bc662b8ad}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GettingStarted.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="VariableAndArithmeticExpressions.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ForStatement.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SymbolicConstants.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CharacterInputAndOutput.c">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="ArgumentsCallByValue.c">
+      <Filter>Source Files\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="Arrays.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Sample.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Functions.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ArgumentsCallByValue.c">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Chapter1</Filter>
     </ClCompile>
     <ClCompile Include="CharacterArrays.c">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterInputAndOutput.c">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="ExternalVariablesAndScope.c">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="ForStatement.c">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.c">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="GettingStarted.c">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample.c">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="SymbolicConstants.c">
+      <Filter>Source Files\Chapter1</Filter>
+    </ClCompile>
+    <ClCompile Include="VariableAndArithmeticExpressions.c">
+      <Filter>Source Files\Chapter1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
