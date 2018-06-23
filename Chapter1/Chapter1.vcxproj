@@ -118,6 +118,7 @@
     <ClCompile Include="Arrays.c" />
     <ClCompile Include="CharacterInputAndOutput.c" />
     <ClCompile Include="ForStatement.c" />
+    <ClCompile Include="Functions.c" />
     <ClCompile Include="GettingStarted.c" />
     <ClCompile Include="Sample.c" />
     <ClCompile Include="SymbolicConstants.c" />

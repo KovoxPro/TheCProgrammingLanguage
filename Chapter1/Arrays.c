@@ -26,4 +26,5 @@ int main()
 		printf(" %d", ndigits[i]);
 	printf(", white space = %d, other = %d\n", nwhite, nother);
 }
+
 #endif // ARRAYS

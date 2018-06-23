@@ -5,4 +5,5 @@
 //#define FOR_STATEMENT
 //#define SYMBOLIC_CONSTANTS
 //#define CHARACTER_INPUT_AND_OUTPUT
-#define ARRAYS
+//#define ARRAYS
+#define FUNCTIONS
